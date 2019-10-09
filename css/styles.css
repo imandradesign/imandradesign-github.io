@@ -1,0 +1,13 @@
+.jumbotron {
+  background-color: #3febce;
+  text-align: center;
+}
+
+#site-title {
+  color: #ed5045 !important;
+}
+
+#groups, #groups a {
+  background-color: #ed5045;
+  color: white;
+}
