@@ -17,12 +17,12 @@
   text-align: center;
 }
 
-#team-link a {
+.team-overview a {
   color: #3febce;
 }
 
-#team-link a:hover {
-  color: #14c9ab;
+.team-overview a:hover {
+  color: #3febce;
 }
 
 #one, #two, #three {
