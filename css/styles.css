@@ -3,11 +3,88 @@
   text-align: center;
 }
 
+.sheets, .sheets a {
+  background-color: #ed5045;
+  color: white;
+  margin: 15px;
+}
+
+.row {
+  padding-bottom: 50px;
+}
+
+.team-overview {
+  text-align: center;
+}
+
+#one, #two, #three {
+  padding-bottom: 100px;
+}
+
 #site-title {
   color: #ed5045 !important;
 }
 
-#groups, #groups a {
-  background-color: #ed5045;
-  color: white;
+#group-title {
+  text-decoration: underline !important;
+}
+
+#flights {
+  text-align: center !important;
+}
+
+#pdx {
+  color: #20e3c9;
+}
+
+#ny {
+  color: #1f4fd1;
+}
+
+#clt {
+  color: #a4e64e;
+}
+
+#kc {
+  color: #ad1b0e;
+}
+
+#mpls {
+  color: #3f23cc;
+}
+
+#dallas {
+  color: #fcba03;
+}
+
+#dm {
+  color: #b063e0;
+}
+
+#mwk {
+  color: #1db536;
+}
+
+#chatt {
+  color: #108267;
+}
+
+#sf {
+  color:#e3e310;
+}
+
+#chi {
+  color: #1375bf;
+}
+
+#mad {
+  color: #db3623;
+}
+
+#la {
+  color: #cc1da9;
+}
+
+#stl {
+  color: #cc7fe3;
 }
