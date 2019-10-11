@@ -6,22 +6,22 @@
 .sheets, .sheets a {
   background-color: #ed5045;
   color: white;
-  margin: 15px;
+  margin: 10px;
 }
 
 .row {
   padding-bottom: 50px;
 }
 
-.team-overview {
+.overview {
   text-align: center;
 }
 
-.team-overview a {
+.overview a {
   color: #3febce;
 }
 
-.team-overview a:hover {
+.overview a:hover {
   color: #3febce;
 }
 
@@ -33,7 +33,7 @@
   color: #ed5045 !important;
 }
 
-#group-title {
+#tourn-title {
   text-decoration: underline !important;
 }
 
