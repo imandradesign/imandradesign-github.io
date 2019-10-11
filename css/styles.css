@@ -17,6 +17,14 @@
   text-align: center;
 }
 
+#team-link a {
+  color: #3febce;
+}
+
+#team-link a:hover {
+  color: #14c9ab;
+}
+
 #one, #two, #three {
   padding-bottom: 100px;
 }
@@ -70,11 +78,11 @@
 }
 
 #sf {
-  color:#e3e310;
+  color: #decf00;
 }
 
 #chi {
-  color: #1375bf;
+  color: #388fd1;
 }
 
 #mad {
@@ -86,5 +94,5 @@
 }
 
 #stl {
-  color: #cc7fe3;
+  color: #98aaeb;
 }
